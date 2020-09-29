@@ -67,3 +67,5 @@ Should the public prices be including or excluding VAT? If you want them to be e
 - Type: `boolean`
 - Default: `env('PRICEABLE_PUBLIC_EXCLUDING_VAT', false)`
 - Options: `true` `false`
+
+<EditOnGithub/>

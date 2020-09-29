@@ -14,3 +14,6 @@ composer require marshmallow/ecommerce-cart
 ```bash
 php artisan ecommerce:install
 ```
+
+<EditOnGithub/>
+
