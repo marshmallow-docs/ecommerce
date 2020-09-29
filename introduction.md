@@ -3,10 +3,14 @@ This package is build so make a full functional ecommerce solution for our custo
 
 [[toc]]
 
-## Marshmallow Ecommerce Documentation
+## Installation
 
 You can install this package by using composer. Just run de command below in your project root and you're good to go.
 
 ```bash
 composer require marshmallow/ecommerce-cart
+```
+
+```bash
+php artisan ecommerce:install
 ```
