@@ -68,4 +68,4 @@ Should the public prices be including or excluding VAT? If you want them to be e
 - Default: `env('PRICEABLE_PUBLIC_EXCLUDING_VAT', false)`
 - Options: `true` `false`
 
-<EditOnGithub/>
+<EditOnGithub repo_name="ecommerce" edit_url="config/README.md"/>

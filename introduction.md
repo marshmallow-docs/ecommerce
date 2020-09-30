@@ -15,5 +15,4 @@ composer require marshmallow/ecommerce-cart
 php artisan ecommerce:install
 ```
 
-<EditOnGithub/>
-
+<EditOnGithub repo_name="ecommerce" edit_url="introduction.md"/>
